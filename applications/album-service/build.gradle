@@ -5,7 +5,7 @@ apply plugin: "io.spring.dependency-management"
 
 group = "org.superbiz"
 version = "1.1.0-SNAPSHOT"
-description = "OpenEJB :: Web Examples :: MovieService"
+description = "OpenEJB :: Web Examples :: AlbumService"
 
 dependencies {
     compile project(":components:albums")
